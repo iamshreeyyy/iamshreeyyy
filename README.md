@@ -40,51 +40,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iamshreeyyy&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Shrey's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshreeyyy&theme=react&background=0d1117&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreeyyy&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Watch my Contributions Snake eat my GitHub Activity:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamshreeyyy/iamshreeyyy/output/snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me:
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://github.com/iamshreeyyy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamshreeyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!;Happy+Coding!+🚀;Let's+build+something+amazing!" />
-</div>
