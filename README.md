@@ -1,47 +1,126 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shrey!;Welcome+to+my+GitHub!" />
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Passionate+Software+Developer;Always+Learning+New+Things;⚡+Quick+Learner;🎯+Problem+Solver;Building+Amazing+Projects" />
-</h3>
+# 🏎️ Welcome to the Racing Line | iamshreeyyy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation"/>
+  
+```
+🏁 LIGHTS OUT AND AWAY WE CODE! 🏁
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Code+Racer;Always+Pushing+for+Pole+Position;DRS+Enabled+%7C+Maximum+Performance)](https://git.io/typing-svg)
+
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me:
+---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 🏆 **Driver Profile**
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 💬 Ask me about **Web Development, Programming**
-- 🎯 Goal: **Contributing to Open Source**
-- ⚡ Fun fact: **I love solving complex problems**
-- 🚀 Always exploring **new technologies and frameworks**
+> *"To finish first, first you have to finish."* - Racing wisdom applied to code
 
-<br clear="both">
+- 🔧 **Currently in the Pits:** Working on exciting full-stack projects
+- 🏎️ **Learning Track:** Mastering new technologies at Monaco-level precision  
+- 💬 **Race Engineer:** Ask me about Web Development, Programming, Performance Optimization
+- 🎯 **Championship Goal:** Contributing to Open Source like a true champion
+- ⚡ **Fastest Lap:** Solving complex problems with algorithmic precision
+- 🚀 **DRS Zone:** Always exploring cutting-edge technologies and frameworks
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools:
+## 🏁 **Technology Garage**
+
+### 🔧 **Frontend Pit Crew**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ **Backend Power Unit**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🏎️ **Racing Data & Tools**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 **Race Statistics**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,redux,tailwind,bootstrap,python&perline=8" />
+
+### 🏆 **Current Season Performance**
+
+| **Metric** | **Performance** |
+|------------|-----------------|
+| 🏁 **Repositories** | `Active Racing` |
+| ⚡ **Languages** | `Multi-Circuit Specialist` |
+| 🎯 **Contributions** | `Championship Contender` |
+| 🚀 **Open Source** | `Team Player` |
+
+### 📈 **Telemetry Data**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshreeyyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&icon_color=e10600&text_color=ffffff&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamshreeyyy&theme=dark&hide_border=true&background=0d1117&stroke=e10600&ring=e10600&fire=e10600&currStreakLabel=e10600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshreeyyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff&cache_seconds=1800)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats:
+## 🏁 **Featured Racing Projects**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshreeyyy&theme=react&background=0d1117&hide_border=true" />
+
+[![WorkCreww](https://github-readme-stats.vercel.app/api/pin/?username=iamshreeyyy&repo=workcreww&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff)](https://github.com/iamshreeyyy/workcreww)
+
+[![CodeStats](https://github-readme-stats.vercel.app/api/pin/?username=iamshreeyyy&repo=codestats&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff)](https://github.com/iamshreeyyy/codestats)
+
+[![Learning Go](https://github-readme-stats.vercel.app/api/pin/?username=iamshreeyyy&repo=learning-go-L&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff)](https://github.com/iamshreeyyy/learning-go-L)
+
 </div>
 
+---
 
+## 🏎️ **Connect with the Racing Team**
+
+<div align="center">
+
+```
+🏁 Ready to join the grid? Let's race together! 🏁
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 **"Code Fast, Debug Faster, Deploy Fastest"**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏎️  CURRENT STATUS: CODING AT FULL THROTTLE  🏎️           │
+│  🔧  DRS: ENABLED  |  ⚡ TURBO: ACTIVE  |  🏁 MODE: RACE    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamshreeyyy&color=e10600&style=for-the-badge&label=RACE+TRACK+VISITORS)
+
+**⚡ Remember: In code as in racing, smooth is fast, and fast is smooth! ⚡**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=🏁%20CHECKERED%20FLAG%20🏁&fontSize=20&fontColor=ffffff" width="100%"/>
+</div>
