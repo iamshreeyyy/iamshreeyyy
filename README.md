@@ -71,17 +71,6 @@
 
 ---
 
-## 🏁 **Featured Racing Projects**
-
-<div align="center">
-
-[![WorkCreww](https://github-readme-stats.vercel.app/api/pin/?username=iamshreeyyy&repo=workcreww&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff)](https://github.com/iamshreeyyy/workcreww)
-
-[![CodeStats](https://github-readme-stats.vercel.app/api/pin/?username=iamshreeyyy&repo=codestats&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff)](https://github.com/iamshreeyyy/codestats)
-
-[![Learning Go](https://github-readme-stats.vercel.app/api/pin/?username=iamshreeyyy&repo=learning-go-L&theme=dark&hide_border=true&bg_color=0d1117&title_color=e10600&text_color=ffffff)](https://github.com/iamshreeyyy/learning-go-L)
-
-</div>
 
 ---
 
